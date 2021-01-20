@@ -31,5 +31,5 @@ make sure you are logged in to the site before starting Needle and you are passi
 
 ### Contact Information
 
-Konstantinos Sarantopoulos  
-konsaranto@protonmail.com
+
+
