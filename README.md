@@ -29,7 +29,7 @@ with the -c argument in the form: cookie1=something1/cookie2=something2...
 Important: If you have to login to the site to make a search (meaning that you have to provide the session cookies to Needle)
 make sure you are logged in to the site before starting Needle and you are passing the right cookies to Needle.
 
-### Contact Information
+
 
 
 
